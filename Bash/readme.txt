@@ -1,2 +1,2 @@
 Название проекта
-![Описание](https://user-images.githubusercontent.com/12345678/123456789-abcd1234.png)
+![Описание](C:\Users\Мария\Documents\GitHub\Practicum_projects\Bash\1.jpg)
