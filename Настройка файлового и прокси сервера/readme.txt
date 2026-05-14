@@ -1,7 +1,9 @@
 Название проекта:" Настройка файлового и прокси-сервера".
 
 Стек технологий:
-🔹 Nginx (прокси и балансировщик), Samba / SMB (файловый сервер), CIFS (протокол доступа), autofs (автомонтирование), mount.cifs, PAM / локальные пользователи, systemd, curl, nginx, cifs-utils, python3. Конфигурационные файлы: /etc/auto.master, /etc/auto.smb, smb.conf, nginx.conf.
+🔹 Nginx (прокси и балансировщик), Samba / SMB (файловый сервер), CIFS (протокол доступа), autofs (автомонтирование), mount.cifs, 
+PAM / локальные пользователи, systemd, curl, nginx, cifs-utils, python3. 
+Конфигурационные файлы: /etc/auto.master, /etc/auto.smb, smb.conf, nginx.conf.
 
 Описание проекта:
 по условию этого проекта требовалось:
