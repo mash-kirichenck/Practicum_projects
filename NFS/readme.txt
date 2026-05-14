@@ -1,5 +1,6 @@
 Название проекта: "Запуск NFS-сервиса и объектного хранилища".
-Стек технологий: ОС Linux (Ubuntu),nfs‑kernel‑server,nfs-common,MinIO,mc (MinIO Client),nginx,systemd,ufw.
+Стек технологий: 
+🔹 ОС Linux (Ubuntu),nfs‑kernel‑server,nfs-common,MinIO,mc (MinIO Client),nginx,systemd,ufw.
 
 Описание проекта:
 по условиям проекта требовалось:
