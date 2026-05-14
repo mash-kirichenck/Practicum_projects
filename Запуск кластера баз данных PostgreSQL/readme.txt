@@ -4,7 +4,6 @@
 🔹 PostgreSQL, Streaming Replication (Active/Standby), pg_basebackup, psql, конфигурационные файлы: pg_hba.conf, postgresql.conf.
 
 Описание проекта:
-
 по условию проекта требовалось:
  - установить PostgreSQL;
  - настроить кластер  в режиме Active/Standby;
