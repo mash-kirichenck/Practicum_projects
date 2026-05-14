@@ -1,1 +1,1 @@
-# Practicum_projects - System administrator 📚
+# Practicum_projects - System administrator 💻
